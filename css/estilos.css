@@ -103,8 +103,8 @@ body {
 
 .hero__container{
     max-width: 800px;
+    --padding-container:0;  
     display: grid;
-    --padding-container:0;
     grid-auto-rows: max-content;
     align-content: center;
     gap: 1em;
