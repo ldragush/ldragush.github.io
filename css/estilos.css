@@ -290,6 +290,7 @@ body {
 
 /* todo esto es el bloque que contiene los planes deprecio */
 .price__elements{
+    background-image: url(/images/fondo.jpg);
     background-color: #e5e5f7;
     text-align: center;
     border-radius: 10px;
